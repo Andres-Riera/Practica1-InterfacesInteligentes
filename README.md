@@ -19,3 +19,39 @@ En este ejercicio accedí a la posición de un GameObject utilizando la propieda
 En este ejercicio pude acceder a dos GameObjects "ajenos" utilizando el método FindWithTag(), de este modo imprimí en pantalla la distancia entre el cubo y el cilindro de mi proyecto.
 
 ![Salida 4](./Ejercicio4-salida.png)
+
+## Ejercicio 6
+
+![Salida 6](./Ejercicio6-salida.png)
+
+## Ejercicio 7
+
+![Ejercicio 7](./Ejercicio7-imagen.png)
+
+## Ejercicio 8
+De base, el cubo tendrá el vector (1, 1, 1) y velocidad 1)
+a. El cubo se mueve el doble de rápido.
+b. Ocurre lo mismo, el cubo se mueve el doble de rápido.
+c. El cubo se mueve más lento.
+d. El cubo se mueve en la misma dirección aunque las posiciones que obtiene son distintas en y.
+e. El cubo seguirá teniendo el mismo comportamiento que de normal, a no ser que su rotación cambie con respecto al sistema de referencia mundial.
+
+## Ejercicio 9
+
+![Ejecución 9](./Ejercicio9.gif)
+
+## Ejercicio 10
+
+![Ejecución 10](./Ejercicio10.gif)
+
+## Ejercicio 11
+
+![Ejecución 11](./Ejercicio11.gif)
+
+## Ejercicio 12
+
+![Ejecución 12](./Ejercicio12.gif)
+
+## Ejercicio 13
+
+![Ejecución 13](./Ejercicio13.gif)
