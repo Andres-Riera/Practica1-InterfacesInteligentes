@@ -44,6 +44,8 @@ e. El cubo seguirá teniendo el mismo comportamiento que de normal, a no ser que
 
 ![Ejecución 10](./Ejercicio10.gif)
 
+La velocidad es más manejable y no es necesaria reducirla mucho.
+
 ## Ejercicio 11
 
 ![Ejecución 11](./Ejercicio11.gif)
