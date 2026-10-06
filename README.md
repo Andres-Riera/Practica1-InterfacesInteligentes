@@ -20,6 +20,9 @@ En este ejercicio pude acceder a dos GameObjects "ajenos" utilizando el método 
 
 ![Salida 4](./Ejercicio4-salida.png)
 
+## Ejercicio 5
+En este ejercicio añadí un objeto vacío y en su script añadí 3 vectores asociados a cada objeto de la escena, los cuales se pueden modificar desde el inspector y al pulsar la tecla de espacio los objetos se moverán en la dirección especificada.
+
 ## Ejercicio 6
 
 ![Salida 6](./Ejercicio6-salida.png)
